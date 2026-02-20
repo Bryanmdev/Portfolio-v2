@@ -1,0 +1,61 @@
+{
+    "Navbar": {
+        "about": "Sobre",
+        "skills": "Habilidades",
+        "projects": "Projetos",
+        "contact": "Contato",
+        "resume": "Currículo",
+        "download_resume": "Baixar Currículo"
+    },
+    "Hero": {
+        "role": "Desenvolvedor Full Stack",
+        "line1": "Construindo",
+        "line2": "software limpo,",
+        "line3": "seguro e escalável.",
+        "description": "Especializado em desenvolvimento de sistemas de ponta a ponta, com foco abrangente em ciência da computação, segurança da informação e performance moderna.",
+        "view_projects": "Ver Projetos"
+    },
+    "About": {
+        "title": "Sobre Mim",
+        "p1": "Sou estudante de <highlight>Ciência da Computação</highlight> e desenvolvedor Full Stack com foco em performance, arquiteturas limpas e experiências visuais imersivas.",
+        "p2": "Acredito que o bom desenvolvimento de software não termina com uma tela bonita. Por isso, trago uma paixão paralela por <highlight>Segurança da Informação</highlight> e criação de sistemas robustos — garantindo que as aplicações não apenas impressionem visualmente, mas também protejam dados sensíveis (conforme visto no meu projeto Argus One).",
+        "p3": "No meu tempo livre, gosto de explorar o fascinante mundo de Game Dev e investigar novos paradigmas em IA e Backend.",
+        "arsenal": "Arsenal Técnico",
+        "frontend": "Frontend",
+        "backend_cloud": "Backend & Cloud",
+        "security_core": "Security & Core",
+        "game_dev": "Game Dev",
+        "db": "Bancos de Dados SQL/NoSQL",
+        "crypto": "Criptografia",
+        "infosec": "Segurança da Informação",
+        "data_structures": "Estruturas de Dados",
+        "proto": "Prototipagem",
+        "logic": "Lógica de Programação",
+        "2d_games": "Jogos 2D"
+    },
+    "Projects": {
+        "title": "Selected Works.",
+        "subtitle": "Um compilado do meu código voltado para segurança e perfomance real.",
+        "view_live": "Ver ao vivo",
+        "repo": "Repositório",
+        "argus_cat": "Security Dashboard",
+        "argus_desc": "Plataforma focada no gerenciamento de segurança pessoal. Armazena e protege dados vitais em banco com criptografia reforçada para manter total anonimato e integridade das informações.",
+        "hosp_cat": "E-Commerce de Larga Escala",
+        "hosp_desc": "Catálogo médico otimizado ponta a ponta com busca super rápida. Design pensado puramente na conversão técnica e organização de inventário.",
+        "chat_cat": "Lógica Backend & IA",
+        "chat_desc": "Automação e lógica pura: Motor inteligente com rotas definidas para mensagens financeiras e recuperação ágil de clientes inadimplentes.",
+        "fw_cat": "UI Design Base",
+        "fw_desc": "Um dos meus primeiros projetos na vida: uma landing page interativa que formou toda a minha fundação prática em estilos e estruturação de interfaces cruas.",
+        "lm_cat": "Micro-interações UI",
+        "lm_desc": "Criado também no início da minha jornada, esse playground mapeia micro-interações em CSS e HTML puro, formando uma vitrine fluida das principais linguagens."
+    },
+    "Contact": {
+        "title1": "Vamos construir algo",
+        "title2": "incrível juntos.",
+        "subtitle": "Sempre aberto para discutir inovação, arquiteturas escaláveis e segurança, ou apenas para trocar ideias sobre tecnologia.",
+        "talk_to_me": "Fale Comigo",
+        "talk_msg": "Olá%20Bryan!%20Encontrei%20seu%20portfólio%20e%20gostaria%20de%20conversar.",
+        "resume_pdf": "Currículo PDF",
+        "rights": "Bryan Miranda. Todos os direitos reservados."
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "Navbar": {
+        "about": "About",
+        "skills": "Skills",
+        "projects": "Projects",
+        "contact": "Contact",
+        "resume": "Resume",
+        "download_resume": "Download Resume"
+    },
+    "Hero": {
+        "role": "Full Stack Developer",
+        "line1": "Building",
+        "line2": "clean software,",
+        "line3": "secure & scalable.",
+        "description": "Specialized in end-to-end systems development, with an overarching focus on computer science, info-sec, and modern web performance.",
+        "view_projects": "View Projects"
+    },
+    "About": {
+        "title": "About Me",
+        "p1": "I am a <highlight>Computer Science</highlight> student and a Full Stack developer focused on performance, clean architectures, and immersive visual experiences.",
+        "p2": "I believe that good software development doesn't end with a pretty screen. Because of this, I hold a parallel passion for <highlight>Information Security</highlight> and building robust systems — ensuring that applications not only impress visually but also protect sensitive data (as seen in my Argus One project).",
+        "p3": "In my free time, I enjoy exploring the fascinating world of Game Dev and investigating new paradigms in AI and Backend.",
+        "arsenal": "Technical Arsenal",
+        "frontend": "Frontend",
+        "backend_cloud": "Backend & Cloud",
+        "security_core": "Security & Core",
+        "game_dev": "Game Dev",
+        "db": "SQL/NoSQL Databases",
+        "crypto": "Cryptography",
+        "infosec": "Information Security",
+        "data_structures": "Data Structures",
+        "proto": "Prototyping",
+        "logic": "Programming Logic",
+        "2d_games": "2D Games"
+    },
+    "Projects": {
+        "title": "Selected Works.",
+        "subtitle": "A compilation of my code focused on real security and performance.",
+        "view_live": "View Live",
+        "repo": "Repository",
+        "argus_cat": "Security Dashboard",
+        "argus_desc": "Platform focused on personal security management. Stores and protects vital data in a heavily encrypted database to maintain total anonymity and integrity of information.",
+        "hosp_cat": "Large Scale E-Commerce",
+        "hosp_desc": "Fully optimized medical catalog with blazing fast search. Design crafted purely for technical conversion and inventory organization.",
+        "chat_cat": "Backend Logic & AI",
+        "chat_desc": "Pure automation and logic: Intelligent engine with defined routes for transactional messages and fast recovery of defaulting clients.",
+        "fw_cat": "UI Design Base",
+        "fw_desc": "One of my very first projects: an interactive landing page that formed my entire practical foundation in styling and structuring raw interfaces.",
+        "lm_cat": "UI Micro-interactions",
+        "lm_desc": "Also created early in my journey, this playground maps micro-interactions in pure HTML/CSS, displaying a fluid museum of major programming languages."
+    },
+    "Contact": {
+        "title1": "Let's build something",
+        "title2": "incredible together.",
+        "subtitle": "Always open to discuss innovation, scalable architectures, and security, or just to exchange thoughts about technology.",
+        "talk_to_me": "Talk to Me",
+        "talk_msg": "Hello%20Bryan!%20I%20found%20your%20portfolio%20and%20would%20like%20to%20talk.",
+        "resume_pdf": "Resume PDF",
+        "rights": "Bryan Miranda. All rights reserved."
+    }
+}
