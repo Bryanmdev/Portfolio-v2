@@ -1,45 +1,29 @@
-# Bryan Miranda | Developer Portfolio V2
+# Bryan Miranda | Desenvolvedor Full Stack & Security
 
-A modern, fast, and minimalist portfolio built with Next.js App Router, Tailwind CSS, Framer Motion, and Next-Intl for Internationalization.
+[**Visite o Portfólio Live**](https://portfolio-bryandev.vercel.app/pt)
 
-## 🚀 Features
+Um pilar profissional projetado sob a ótica da alta performance e minimalismo editorial. Construído não apenas para exibir projetos, mas para demonstrar habilidades tangíveis de front-end nativo, renderização no servidor e atenção extrema a pequenos detalhes.
 
-- **Blazing Fast**: Compiled statically with Next.js Server Components.
-- **I18N Ready**: Dual language support (English and Portuguese) using `next-intl` cleanly integrated into the App Router middleware.
-- **Modern Interactions**:
-  - **SpotlightCards**: with radial mouse hover effects.
-  - **Canvas Particles**: Interactive background particles using raw `<canvas>`.
-  - **Revealing Typography**: Spring-based smooth text reveals on the Hero section.
-  - **Scroll Progress**: A subtle tracking bar built via Framer metrics.
-- **Fully Responsive**: Designed with mobile-first and fluid typography principles.
+## 🚀 Arquitetura & UX
 
-## 🛠️ Tech Stack
+- **Single Page Application Real**: Construído com o `Next.js 15 (App Router)` utilizando Turbopack para otimização máxima.
+- **Sistema i18n Nativo (PT-BR / EN)**: Internacionalização completa implementada com `next-intl` no `middleware`. Respeitando a leitura do Googlebot sem comprometer o fluxo estático e sem necessitar carregamento da página inteira.
+- **Modo Dark-Lock**: A paleta explora as fundações monocromáticas de alto contraste focada em descansar a vista do desenvolvedor.
+- **Identidade Visual ("Math-driven")**:
+  - `Spotlight Cards`: Cálculo em base X e Y acompanhando o estado do ponteiro do mouse para revelar um gradiente radial suave.
+  - `Canvas Particles`: Centenas de partículas geradas simultaneamente repulsivas ao mouse através de matrizes em `HTML5 <canvas>`. Nenhuma lib pesada como Three.js foi usada, apenas Matemática pura e JavaScript nativo.
+  - `Spring Frame Revolutions`: Reveal typography customizada através da `Framer Motion` calculando desacerelação cúbica limpa (Cubic-Bezier).
 
-- **Framework**: `Next.js 15` (React 19)
-- **Styling**: `Tailwind CSS v4`, `Lucide React`
-- **Animations**: `Framer Motion`
-- **Translations**: `Next-Intl`
-- **Design System**: Monochrome, high contrast, clean component architecture.
+## 🛠️ Stack Tecnológico
 
-## 💻 Local Development
-
-1. Clone this repository.
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
-3. Start the dev server:
-   ```bash
-   npm run dev
-   ```
-4. Open [http://localhost:3000](http://localhost:3000)
-
-## 🎨 Aesthetics & Architecture
-
-The design leaves behind the overused "Glassmorphism & Neon" typical developer themes and adopts an editorial, monochrome approach with high contrast (`#09090b` for background and `#fafafa` for foreground), similar to premium SaaS applications.
-
-- **Typography**: [Geist Sans & Mono](https://vercel.com/font).
-- **Clean Structure**: Code split intuitively between functional sections (`Hero.tsx`, `Projects.tsx`) and logic/animation files.
+- React 19 + Next.js (App Router)
+- Variáveis CSS nativas baseadas no novo Tailwind CSS v4.
+- Animações por Framer Motion.
+- Controle Global Iconográfico via Lucide React.
+- Cloud Hosting Edge via Vercel.
 
 ---
-> Developed by [Bryan Miranda](https://github.com/Bryanmdev) focused on deep InfoSec logic, clean architectures, and modern web performance.
+
+> Desenvolvido primariamente como uma peça estática de confiança ("Trust Signal") para mostrar solidez em conceitos base como SEO, A11y e Lógica Funcional.
+>
+> 📞 **[LinkedIn - Bryan Miranda](https://linkedin.com/in/bryan-miraanda/)**
