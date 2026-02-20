@@ -9,6 +9,7 @@
 }
 
 :root {
+  color-scheme: dark;
   --background: #09090b;
   --foreground: #fafafa;
   --accent: #e4e4e7;
